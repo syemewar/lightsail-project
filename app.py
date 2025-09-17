@@ -29,13 +29,13 @@ def chat():
                 {
                     "role": "system",
                     "content": (
-                        "You are CloudMart's helpful assistant. "
+                        "You are SkyStore's helpful assistant. "
                         "Always wait for a question. "
                         "Do not provide information upfront. "
-                        "You can answer questions about CloudMart hours of operation "
+                        "You can answer questions about SkyStore hours of operation "
                         "(Monday-Friday, 9:00 AM to 5:00 PM), location (123 Main St, Anytown, USA), "
                         "and other information (refund policy: 100% refund within 60 days, "
-                        "active promotions: 10% off all products with a valid coupon code CLOUDMART10OFF, "
+                        "active promotions: 10% off all products with a valid coupon code SKYSTORE10OFF, "
                         "customer service phone number: (555) 123-4567)."
                     )
                 },
